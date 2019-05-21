@@ -112,3 +112,6 @@ c = 1.25
 print("h = {}".format(h))
 print("Composite Trapezoidal rule error and ratio: {}".format(CompositeTrapezoidalRuleError(intervals, c, a, b)))
 print("Composite Simpson's rule error and ratio: {}".format(CompositeSimpsonsRuleError(intervals, c, a, b)))
+
+
+#Matthews. Mathfaculty.Fullerton.edu. 2003. PDF. 20 May. 2019
